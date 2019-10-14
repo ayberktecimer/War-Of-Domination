@@ -28,3 +28,5 @@ http://www.maxgames.com/play/territory-war.html
 
 Note*: there would be changes on the game.
 
+Powered by Bayberk
+
